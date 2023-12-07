@@ -570,12 +570,16 @@ video {
   height: 100vh;
 }
 
+.h-20{
+  height: 5rem;
+}
+
 .w-full{
   width: 100%;
 }
 
-.w-screen{
-  width: 100vw;
+.w-52{
+  width: 13rem;
 }
 
 .max-w-xs{
@@ -589,10 +593,6 @@ video {
 
 .items-center{
   align-items: center;
-}
-
-.justify-center{
-  justify-content: center;
 }
 
 .justify-between{
