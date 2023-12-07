@@ -13,6 +13,7 @@ module.exports = {
         desaturatedBlue: "hsl(224, 23%, 55%)",
         darkBlue: "hsl(223, 47%, 23%)"
       },
+     
     },
   },
   plugins: [],
